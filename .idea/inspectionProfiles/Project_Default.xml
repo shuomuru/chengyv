@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="xiang.lain.ACTION_THRESHOLDS" />
+          <option value="xiang.lain.cv2" />
+          <option value="xiang.lain.QMessageBox" />
+          <option value="xiang.lain.QPixmap" />
+          <option value="xiang.lain.FACE_DATA_DIR" />
+          <option value="xiang.lain.np" />
+          <option value="xiang.lain.os" />
+          <option value="xiang.lain.POSE_LANDMARKS" />
+          <option value="xiang.lain.doubaocanvas" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
